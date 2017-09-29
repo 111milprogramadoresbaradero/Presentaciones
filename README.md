@@ -1,6 +1,6 @@
 # Material Curso 111 mil programadores
 
-### Clase 1
+### Clase 1 - 02/10/2017
 
 - [Introducción al curso](Clase_1_Introduccion_1.0.pptx?raw=true)
 - [Contextualización](Clase_1_Contextualizacion_1.0.pptx?raw=true)
