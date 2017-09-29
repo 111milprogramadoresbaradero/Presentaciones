@@ -1,8 +1,8 @@
 # Material Curso 111 mil programadores
 
-## Presentaciones clase 1
+### Clase 1
 
-- [Introducción al curso](Clase_1_Introduccion_1.0.pptx)
+[Introducción al curso](Clase_1_Introduccion_1.0.pptx?raw=true)
 
 ## Canal de comunicación
 
