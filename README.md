@@ -5,9 +5,13 @@
 - [Introducción al curso](Clase_1_Introduccion_1.0.pptx?raw=true)
 - [Contextualización](Clase_1_Contextualizacion_1.0.pptx?raw=true)
 
-## Clase 2 - 08/10/2017
+### Clase 2 - 07/10/2017
 
 - [Algoritmos](Clase_2_Algoritmos_1.0.pptx?raw=true)
+
+### Clase 3 - 09/10/2017
+
+- [Profundización](Clase_3_Profundizacion_1.0.pptx?raw=true)
 
 
 ## Canal de comunicación
