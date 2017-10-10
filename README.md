@@ -9,7 +9,7 @@
 
 - [Algoritmos](Clase_2_Algoritmos_1.0.pptx?raw=true)
 
-### Clase 3 - 09/10/2017
+### Clase 3 - 09/10/2017
 
 - [Profundización](Clase_3_Profundizacion_1.0.pptx?raw=true)
 
