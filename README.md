@@ -1,19 +1,19 @@
 # Material Curso 111 mil programadores
 
-### Clase 1 - 02/10/2017
+### Clase 1 - 02/10/2017 - Andrés Garagiola
 
 - [Introducción al curso](Clase_1_Introduccion_1.0.pptx?raw=true)
 - [Contextualización](Clase_1_Contextualizacion_1.0.pptx?raw=true)
 
-### Clase 2 - 07/10/2017
+### Clase 2 - 07/10/2017 - Diego Romero
 
 - [Algoritmos](Clase_2_Algoritmos_1.0.pptx?raw=true)
 
-### Clase 3 - 09/10/2017
+### Clase 3 - 09/10/2017 - Andrés Garagiola
 
 - [Profundización](Clase_3_Profundizacion_1.0.pptx?raw=true)
 
-### Clase 6 - 23/10/2017
+### Clase 6 - 23/10/2017 - Andrés Garagiola
 
 - [Ejercicios pendientes](Clase_6_Ejericicos_1.0.pptx?raw=true)
 - [Python](Clase_6_Python_1.0.pptx?raw=true)
