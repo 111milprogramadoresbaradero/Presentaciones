@@ -16,7 +16,7 @@
 ### Clase 6 - 23/10/2017
 
 - [Ejercicios pendientes](Clase_6_Ejericicos_1.0.pptx?raw=true)
-- [Python](Clase_6_Pytho_1.0.pptx?raw=true)
+- [Python](Clase_6_Python_1.0.pptx?raw=true)
 
 ## Canal de comunicación
 
