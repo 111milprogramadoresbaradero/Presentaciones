@@ -38,7 +38,7 @@ Ingresa en nuestro workspace en [Slack](https://111milprogramadores.slack.com)
 
 ## Misceláneas
 
-- [Guía comandos Git](git-command.md?raw=true)
+- [Guía comandos Git](git-command.md)
 
 
 
