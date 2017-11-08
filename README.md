@@ -36,7 +36,7 @@ Ingresa en nuestro workspace en [Slack](https://111milprogramadores.slack.com)
 | Sábado      | 08:30 - 12:30 |
 
 
-## Misceláneas
+## Misceláneas
 
 - [Guía comandos Git](git-command.md?raw=true)
 
