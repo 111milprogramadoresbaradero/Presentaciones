@@ -1,5 +1,5 @@
  
-# Comandos git más usados:
+# Comandos git más usados:
 
 1) Clonar repositorio, copia un repositorio desde una dirección remota (URL) en la maquina local.
 
