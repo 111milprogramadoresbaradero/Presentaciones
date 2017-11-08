@@ -46,6 +46,8 @@ En el ejemplo anterior se agregaron 3 archivos:
 - ejercicio2.py (en la misma carpeta)
 - logon.png (que se encuentra en la carpeta imagenes dentro de la actual carpeta)
 
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
+
 4) Consultar el estado 
 
 ```{r, engine='bash'}
@@ -53,6 +55,8 @@ git status
 ```
 
 Este comando lista el estado actual localmente, nos indica que cambios hemos hecho, que archivos están siendo manejados por git y cuales no, cuales han sido añadidos para un futuro commit y cuales no.
+
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
 
 5) Commit
 
@@ -71,6 +75,8 @@ git commit -m "Agrega la solucion al ejercicio de maximos (ejercicio.py)"
 La frase que se indica en el commit es muy importante para entender que cambios se han agregado, en idioma español conviene comenzar la frase con un verbo en tiempo indicativo presente, por ejemplo "Agrega", "Elimina", "Arregla", "Modifica", etc. En idioma inglés se suele usar un verbo infinitivo por ejemplo "Add", "Delete", "Fix" o "Modify", etc. 
 En idioma español conviene no usar acentos ni caracteres especiales para evitar potenciales problemas de encoding.
 
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
+
 6) Branch
 
 Este comando nos indica cual es la _rama_ o _branch_ en la cual estamos trabajando. La rama por defecto que tienen todos los repositorios es _master_ pero es posible crear nuevas ramas.
@@ -78,6 +84,8 @@ Este comando nos indica cual es la _rama_ o _branch_ en la cual estamos trabajan
 ```{r, engine='bash'}
 git branch
 ```
+
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
 
 7) Consultar repositorios remotos
 
@@ -92,6 +100,8 @@ Si se le agrega la opción "-v" nos indica la URL de cada repositorio:
 ```{r, engine='bash'}
 git remote -v
 ```
+
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
 
 8) Push
 
@@ -111,6 +121,8 @@ Subirá los cambios en el repositorio que tenemos con el nombre _origin_ en la b
 
 Este comando nos puede dar un error si existe un conflicto, por ejemplo que alguien haya subido un cambio desde el último commit que nos bajamos hasta el momento en que hacemos el push. En ese caso debemos bajarnos los cambios y resolver los conflictos en caso de que existan.
 
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
+
 9) Bajar cambios del repositorio
 
 Para bajar todos los cambios desde el repositorio en nuestro local podemos usar el comando _fetch_, este comando baja los cambios para que luego los integremos en nuestra branch.
@@ -126,6 +138,8 @@ git fetch origin master
 ```
 
 Recupera todos los cambios desde el repositorio _origin_ y la branch _master_, si obviamos el parámetro _BRANCH_ el comando traerá los cambios de todas las ramas del repositorio y por otro lado si obviamos el parámetro _REPOSITORIO_ traerá los cambios de todos los repos.
+
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
 
 10) Integrar los cambios
 
@@ -155,6 +169,8 @@ Si por cualquier motivo queremos suspender el rebase, en otras palabras dejar nu
 git rebase --abort
 ```
 
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
+
 11) Crear un nuevo branch
 
 Para crear un nuevo branch local podemos usar el comando _checkout_
@@ -170,3 +186,5 @@ git checkout otrobranch
 ```
 
 Creará un nuevo branch que inicializado con los cambios presentes en el branch actual. Luego si se realiza un push utilizando este nuevo branch, el nuevo branch será incluído en el repositorio remoto.
+
+** Nota: Este comando es importante que se ejecute desde la carpeta en la cual se creó o clonó el repositorio.
